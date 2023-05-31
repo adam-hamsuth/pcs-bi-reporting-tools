@@ -3,6 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+test.csv
+testout.csv
+
+*.json
+*.yaml
+*.yaml
+*.csv
+*/test.py
+test.py
+
 # C extensions
 *.so
 
